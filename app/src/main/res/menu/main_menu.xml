@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/browse"
+        android:title="@string/browse">
+        <menu>
+            <item android:id="@+id/allVehicles"
+                android:title="@string/allVehicles"/>
+            <item android:id="@+id/soldVehicles"
+                android:title="@string/soldVehicles"/>
+            <item android:id="@+id/availableVehicles"
+                android:title="@string/availableVehicles"/>
+        </menu>
+    </item>
+    <item android:id="@+id/view"
+        android:title="@string/view">
+        <menu>
+            <item android:id="@+id/viewCompany"
+                android:title="@string/viewCompany"/>
+            <item android:id="@+id/viewVehicle"
+                android:title="@string/viewVehicle"/>
+
+        </menu>
+    </item>
+    <item android:id="@+id/add"
+        android:title="@string/add">
+    </item>
+    <item android:id="@+id/modify"
+        android:title="@string/modify">
+        <menu>
+            <item android:id="@+id/modifyCompany"
+                android:title="@string/modifyCompany"/>
+            <item android:id="@+id/modifyVehicle"
+                android:title="@string/modifyVehicle"/>
+        </menu>
+    </item>
+
+
+
+</menu>

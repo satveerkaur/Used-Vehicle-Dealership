@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UsedVehicleDealership</string>
+    <string name="splash_description">Find Used Cars</string>
+    <string name="browse">Browse</string>
+    <string name="allVehicles">All Vehicles</string>
+    <string name="soldVehicles">Sold Vehicles</string>
+    <string name="availableVehicles">Available Vehicle</string>
+    <string name="view">View</string>
+    <string name="viewCompany">Company</string>
+    <string name="viewVehicle">Vehicle</string>
+    <string name="add">Add</string>
+    <string name="modify">Modify</string>
+    <string name="modifyCompany">Company</string>
+    <string name="modifyVehicle">Vehicle</string>
+    <string name="companyName">The Second Chance</string>
+    <string name="companyAddress">1499 Principale,Sainte-Julie,Quebec,J3E 1R5</string>
+    <string name="carsSold">Number of Cars Sold</string>
+    <string name="profitMade">Profit</string>
+
+
+
+</resources>
